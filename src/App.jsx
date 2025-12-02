@@ -30,7 +30,7 @@ export default function App() {
   // ========================== Flipbook States ==========================
   const [flipbookOpen, setFlipbookOpen] = useState(false);
   const [flipIndex, setFlipIndex] = useState(0);
-  const [flipSpeed, setFlipSpeed] = useState(4000); // ms
+  const [flipSpeed, setFlipSpeed] = useState(2500); // ms
   const [music, setMusic] = useState(null);
   const audioRef = useRef(null);
   const flipInterval = useRef(null);
