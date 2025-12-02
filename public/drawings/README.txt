@@ -1,0 +1,1 @@
+Place drawing image files here before building (e.g. 1.jpg, 2.jpg).
